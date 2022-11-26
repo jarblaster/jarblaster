@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jarblaster
-- 👀 I’m interested in creative web development
-- 🌱 I’m currently learning go
+- 👋 Hi, I’m Justin Arblaster
+- 👀 I’m a creative developer with interest in computer graphics 💥
+- 🌱 I’m currently learning go 🐹
 - 📫 Reach me @just_nodes
 
 <!---
